@@ -1,5 +1,5 @@
 # Hi there, I'm Umatriz
-I'm Python and Web developer
+I'm Web developer
 - Python
 - Django
 - HTML
