@@ -2,8 +2,6 @@
 I'm Web developer
 - Python
 - Django
+- Rust
 - HTML
 - CSS
-- And some JS
-
-![](https://komarev.com/ghpvc/?username=Umatriz)
