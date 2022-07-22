@@ -2,6 +2,6 @@
 I'm Web developer
 - Python
 - Django
-- Rust
+- Js
 - HTML
 - CSS
