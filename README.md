@@ -8,4 +8,6 @@ I'm Web developer
 - CSS
 ### Learning
 - React
-- Next js
+- Next Js
+- Nest Js
+- Prisma
